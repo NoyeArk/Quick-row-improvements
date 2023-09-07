@@ -10,8 +10,7 @@
 要求：实现上述算法，并完成测试，输出每一步的变化过程。  
 
 ## 程序概述
-![image](https://github.com/NoyeArk/Quick-row-improvements/assets/112805800/3c74e005-d215-41bf-8507-beec7f135347)
-![image](https://github.com/NoyeArk/Quick-row-improvements/assets/112805800/a56ca20c-c0d2-44b4-803c-f420341d402c)
+![image](https://github.com/NoyeArk/Quick-row-improvements/assets/112805800/3c74e005-d215-41bf-8507-beec7f135347) ![image](https://github.com/NoyeArk/Quick-row-improvements/assets/112805800/a56ca20c-c0d2-44b4-803c-f420341d402c)
 
 ## 效果展示
 ![image](https://github.com/NoyeArk/Quick-row-improvements/assets/112805800/b557a782-fd7a-41b1-bd82-465601715b17)
